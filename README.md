@@ -1,1 +1,1 @@
-# wrds
+Files for WRDS 150B project, including figures and R code used for data analysis
